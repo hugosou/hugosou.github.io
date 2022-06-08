@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #""
+title                    : "Hugo Soulat"
 title_separator          : "-"
 name                     : &name "Hugo Soulat"
 description              : &description ""
@@ -65,7 +65,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hugo Soulat"
+  name             : #""
   avatar           : "avatar.png"
   bio              : "PhD student at Gatsby Computational Neuroscience Unit."
   github           : "hugosou"
