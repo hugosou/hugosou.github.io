@@ -34,7 +34,7 @@ Experience
 * 2015: Human/military formation (as part of École Polytechnique training), French Air Force
   * Participated in training missions and drew up internal audit reports. 
 
-DISTINCTIONS
+Distinctions
 ======
 * Bertarelli Fellowship
   * Bertarelli Foundation and EPFL annually selects three to five students to perform
