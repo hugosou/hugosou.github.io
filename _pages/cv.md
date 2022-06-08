@@ -66,6 +66,6 @@ Teaching
   {% endfor %}</ul>
   
 
-INTERESTS
+Interests
 ======
 World health and politics, scuba diving, basketball, piano, life and basic sciences.
