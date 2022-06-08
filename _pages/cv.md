@@ -65,3 +65,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+INTERESTS
+======
+World health and politics, scuba diving, basketball, piano, life and basic sciences.
