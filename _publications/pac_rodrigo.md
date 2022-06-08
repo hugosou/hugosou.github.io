@@ -3,7 +3,7 @@ title: "Association Between Lower Preoperative Cognition With Intraoperative Ele
 collection: publications
 permalink: /publication/pac_rodrigo
 excerpt: ''
-date: 2021
+date: 2021-01-01
 venue: 'Anesthesia & Analgesia'
 paperurl: ''
 citation: 'Gutiérrez, Rodrigo G.; Egaña, José I.; Maldonado, Felipe A.; Sáez, Iván A. CK; Reyes, Fernando I.; Soulat, Hugo; Purdon, Patrick L'
