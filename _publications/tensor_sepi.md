@@ -1,10 +1,10 @@
 ---
-title: "Probabilistic Tensor Decomposition of NeuralPopulation Spiking Activity (spotlight)"
+title: "Probabilistic Tensor Decomposition of NeuralPopulation Spiking Activity (Accepted with spotlight)"
 collection: publications
 permalink: /publication/tensor_sepi
 excerpt: ''
 date: 2021-12-01
-venue: 'NEURIPS'
+venue: 'NEURIPS: Neural Information Processing Systems'
 paperurl: ''
 citation: ' Soulat,H., Keshavarzi,S., Margrie, TW. & Sahani, M.'
 ---
