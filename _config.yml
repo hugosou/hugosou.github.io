@@ -102,8 +102,6 @@ author:
   wikipedia        :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -115,7 +113,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+twitter:
+  username               : &twitter
 
 
 # Reading Files
