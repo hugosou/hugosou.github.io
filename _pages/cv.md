@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD. in Computational Neuroscience and Machine Learning - Gatsby Unit UCL, 2024 (expected)
+* MSc. (x2) in System Bioengineering - Ecole Polytechnique then EPFL, 2018 
+* BSc. in mathematics - Lycee Louis Le Grand, 2013
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Visiting PhD Student, Statistical Machine Learning Group - UCL
+  * Efficient RL
+  * Gaussian Processes and Random Fourier Features 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2017-2019: Research Assistant and Data Analyst, Neuroscience Statistics Research Laboratory, Harvard-MGH, Boston, USA
+  * Simultaneous EEG- fMRI analysis
+  * Design Expectation Maximization and Kalman filtering algorithms
+  * Statistical inference
+
+* Summer 2016: Research Internship, Unit of Dynamic Neuronal Imaging, Pasteur Institute, Paris, France
+  * Design and Built a Fluorescence Correlation Spectroscopy (FCS) microscope
+  * Designed and implemented FCS Experiments
+  * Implemented numerical simulations tools assessing the experiments validity.
+
+* 2015: Human/military formation (as part of École Polytechnique training), French Air Force
+  * Participated in training missions and drew up internal audit reports. 
+
+DISTINCTIONS
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bertarelli Fellowship
+  * Bertarelli Foundation and EPFL annually selects three to five students to perform
+their master’s research in Harvard Medical School (HMS) or HMS-affiliated labs over
+a ten- to twelve-month period.
+
+* Master Degree Excellence Mention
+  * Awarded for student whose master studies average exceeds 5.5/6 (GPA>3.7)
+
+* EPFL Excellence Fellowship
+  * Awarded to students with outstanding academic records
 
 Publications
 ======
