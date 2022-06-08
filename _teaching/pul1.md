@@ -4,7 +4,7 @@ collection: teaching
 type: "Master Level Machine Learning Class."
 permalink: /teaching/pul1
 venue: "UCL - CS"
-date: 2020
+date: 2020-01-01
 location: "London, UK"
 ---
 
