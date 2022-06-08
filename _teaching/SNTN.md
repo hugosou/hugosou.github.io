@@ -2,7 +2,7 @@
 title: "Systems and Theoretical Neuroscience"
 collection: teaching
 type: "Master Level Neuroscience Class."
-permalink: /teaching/pul1
+permalink: /teaching/SNTN
 venue: "UCL - SWC"
 date: 2020
 location: "London, UK"
