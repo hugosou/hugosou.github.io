@@ -1,9 +1,9 @@
 ---
 title: "Probabilistic and Supervised Learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Master Level Machine Learning Class."
 permalink: /teaching/pul1
-venue: "University 1, Department"
+venue: "UCL - CS"
 date: 2020
 location: "London, UK"
 ---
