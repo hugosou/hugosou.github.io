@@ -4,7 +4,7 @@ collection: teaching
 type: "Master Level Neuroscience Class."
 permalink: /teaching/SNTN
 venue: "UCL - SWC"
-date: 2020
+date: "2020"
 location: "London, UK"
 ---
 
