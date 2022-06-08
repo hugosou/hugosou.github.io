@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Association Between Lower Preoperative Cognition With Intraoperative Electroencephalographic Features Consistent With Deep States of Anesthesia in Older Patients: An Observational Cohort Study"
 collection: publications
 permalink: /publication/pac_rodrigo
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: ''
+date: 2021
+venue: 'Anesthesia & Analgesia'
+paperurl: ''
+citation: 'Gutiérrez, Rodrigo G.; Egaña, José I.; Maldonado, Felipe A.; Sáez, Iván A. CK; Reyes, Fernando I.; Soulat, Hugo; Purdon, Patrick L'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://journals.lww.com/anesthesia-analgesia/Fulltext/2021/07000/Association_Between_Lower_Preoperative_Cognition.27.aspx)
