@@ -1,5 +1,5 @@
 ---
-title: "Probabilistic and Supervised Learning"
+title: "Probabilistic and Unsupervised Learning"
 collection: teaching
 type: "Master Level Machine Learning Class."
 permalink: /teaching/pul1
