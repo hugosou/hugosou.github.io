@@ -1,12 +1,12 @@
 ---
-title: "Probabilistic Tensor Decomposition of NeuralPopulation Spiking Activity (Accepted with spotlight)"
+title: "Unsupervised representational learning with recognition-parametrised probabilistic models"
 collection: publications
-permalink: /publication/tensor_sepi
+permalink: /publication/rpm
 excerpt: ''
-date: 2021-12-01
-venue: 'NEURIPS: Neural Information Processing Systems'
+date: 2022-12-01
+venue: 'aeXiv'
 paperurl: ''
-citation: ' Soulat,H., Keshavarzi,S., Margrie, TW. & Sahani, M.'
+citation: 'Walker. W*, Soulat. H*, Yu. C, Sahani. M'
 ---
 
-[Download paper here](https://proceedings.neurips.cc/paper/2021/hash/859b755563f548d008f936906a959c8f-Abstract.html)
+[Download paper here](https://arxiv.org/abs/2209.05661)
