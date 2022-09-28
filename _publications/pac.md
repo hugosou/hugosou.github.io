@@ -3,10 +3,10 @@ title: "State space methods for phase amplitude coupling analysis"
 collection: publications
 permalink: /publication/pac
 excerpt: ''
-date: 2019-10-01
-venue: 'bioRvix'
+date: 2022-09-01
+venue: 'Scientific Reports'
 paperurl: ''
 citation: 'Soulat, H., Beck, A., Stephen ,E. , Purdon, PL.'
 ---
 
-[Download paper here](https://www.biorxiv.org/content/10.1101/772145v1)
+[Download paper here](https://www.nature.com/articles/s41598-022-18475-3)
