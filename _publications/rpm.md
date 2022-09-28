@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/rpm
 excerpt: ''
 date: 2022-12-01
-venue: 'aeXiv'
+venue: 'arXiv'
 paperurl: ''
 citation: 'Walker. W*, Soulat. H*, Yu. C, Sahani. M'
 ---
